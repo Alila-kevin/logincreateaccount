@@ -5,6 +5,7 @@ namespace julyform13
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
+        //making changes to them
         [STAThread]
         static void Main()
         {
